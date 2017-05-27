@@ -3,10 +3,11 @@
 # Package Files #
 *.war
 *.ear
-/ant.settings
 bin
 heros-trunk.jar
 /javadoc
 /reports
 /debug
 /target/
+/heros-trunk.jar
+/herosclasses-trunk.jar
